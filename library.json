@@ -1,0 +1,20 @@
+{
+  "name": "Grove_LoRa_433MHz_and_915MHz_RF",
+  "frameworks": "arduino",
+  "keywords": "lora, radio, RF",
+  "description": "Arduino library to control Grove - LoRa Radio 868MHz and Grove - LoRa Radio 433MHz.",
+  "url": "https://github.com/ecomesana/Grove_LoRa_433MHz_and_915MHz_RF",
+  "authors": [{
+    "name": "Seeed Studio",
+    "email": "techsupport@seeed.cc"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecomesana/Grove_LoRa_433MHz_and_915MHz_RF"
+  },
+  "platforms": "*",
+  "version": "1.0.0",
+  "dependencies": {
+
+  }
+}
